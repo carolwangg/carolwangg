@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I'm @carolwangg
-- 👀 I’m interested in Machine Intelligence and Physics
+- 👀 I’m interested in Machine Intelligence and Robotics
 - 📫 How to reach me: carolzjwang@gmail.com
+- ⚡ Fun fact: I am trying to read the Odyssey
