@@ -1,4 +1,4 @@
-## Hi there 👋
+##  👋
 
 <!--
 **carolwangg/carolwangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I'm @carolwangg
+- 👀 I’m interested in Machine Intelligence and Physics
+- 📫 How to reach me: carolzjwang@gmail.com
