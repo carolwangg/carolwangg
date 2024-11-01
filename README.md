@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*Want to see more art like the one in my profile picture?* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_drawandstuff) 
 
 - 👋 Hi, I'm @carolwangg
 - 👀 I’m interested in Artificial Intelligence and Robotics
